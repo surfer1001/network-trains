@@ -12,7 +12,7 @@ try:
 except:
     print "I am unable to connect to the database"
 
-NETWORK_RAIL_AUTH = ('<YOUR NETWORK RAIL USERNAME>', '<YOUR NETWORK RAIL PASSWORD>')
+NETWORK_RAIL_AUTH = ('andrew.norcott@googlemail.com', 'Millie1001!')
 
 class Listener(object):
 
